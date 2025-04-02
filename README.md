@@ -10,9 +10,3 @@ Technologies Used:
 - Python
 - Jupyter Notebooks
 - Libraries: Pandas, Matplotlib, Seaborn
-
-How to run the Notebook:
-1. Clone the repository.
-2. Install necessary libraries:
-   ```bash
-   pip install -r requirements.txt
